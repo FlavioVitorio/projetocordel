@@ -43,7 +43,7 @@ section{
     padding-bottom: 10vh;
 }
 section p{ 
-    font-size:2vw;
+    font-size:4vw;
     padding: 20px;
     line-height: 2em;
     font-family: var(--fontmain);
